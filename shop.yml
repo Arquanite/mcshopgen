@@ -1,0 +1,43 @@
+sell-postfix: " - Sprzedaż"
+buy-postfix: " - Skup"
+shop:
+  - name: Kamieniarz
+    currency: gold_nugget
+    offer:
+      - item: cobblestone
+        amount: 64
+        price: 1
+        
+      - item: dirt
+        amount: 64
+        price: 1
+        
+      - item: stonebrick
+        amount: 32
+        price: 1
+      
+      - item: stonebrick
+        amount: 32
+        price: 1
+        type: 1  # zamszone
+        
+      - item: stonebrick
+        amount: 32
+        price: 1
+        type: 2  # spękane
+        
+      - item: stonebrick
+        amount: 32
+        price: 1
+        type: 3 # te trzecie
+        
+  - name: Rzeźnik
+    currency: gold_nugget
+    offer:
+      - item: beef
+        amount: 16
+        price: 1
+      
+      - item: cooked_beef
+        amount: 8
+        price: 1
