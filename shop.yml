@@ -31,6 +31,33 @@ shop:
         price: 1
         type: 3 # te trzecie
         
+  - name: Piaskun #ten od piachu :d
+    currency: gold_nugget
+    offer:
+      - item: dirt
+        amount: 64
+        price: 1
+    
+    offer:
+      - item: sand
+        amount: 64
+        price: 1
+    
+    offer:
+      - item: glass
+        amount: 64
+        price: 2
+    
+    offer:
+      - item: gravel
+        amount: 64
+        price: 2
+    
+    offer:
+      - item: clay
+        amount: 64
+        price: 2
+        
   - name: Rzeźnik
     currency: gold_nugget
     offer:
@@ -41,3 +68,110 @@ shop:
       - item: cooked_beef
         amount: 8
         price: 1
+
+      - item: chicken
+        amount: 16
+        price: 1
+      
+      - item: cooked_chicken
+        amount: 8
+        price: 1
+
+      - item: porkchop
+        amount: 16
+        price: 1
+      
+      - item: cooked_porkchop
+        amount: 8
+        price: 1
+
+      - item: rabbit
+        amount: 16
+        price: 1
+      
+      - item: cooked_rabbit
+        amount: 8
+        price: 1
+
+      - item: mutton
+        amount: 16
+        price: 1
+      
+      - item: cooked_mutton
+        amount: 8
+        price: 1
+
+  - name: Kopacz 
+    currency: gold_ingot
+    offer:
+      - item: iron_ingot
+        amount: 64 
+        price: 16
+
+      - item: diamond
+        amount: 1
+        price: 16
+
+  - name: Drwal
+    currency: gold_nugget
+    offer:
+      - item: log #oak
+        amount: 64 
+        price: 16
+        type: 0
+
+      - item: log #spruce
+        amount: 64
+        price: 16
+        type: 1
+
+      - item: log #birch
+        amount: 64
+        price: 16
+        type: 2
+    
+      - item: log #jungle
+        amount: 64
+        price: 16
+        type: 3
+
+      - item: log #akacja
+        amount: 64
+        price: 16
+        type: 4
+
+      - item: log #dark oak
+        amount: 64
+        price: 16
+        type: 5
+
+      - item: planks #oak
+        amount: 64 
+        price: 4
+        type: 0
+
+      - item: planks #spruce
+        amount: 64
+        price: 4
+        type: 1
+
+      - item: planks #birch
+        amount: 64
+        price: 4
+        type: 2
+    
+      - item: planks #jungle
+        amount: 64
+        price: 4
+        type: 3
+
+      - item: planks #akacja
+        amount: 64
+        price: 4
+        type: 4
+
+      - item: planks #dark oak
+        amount: 64
+        price: 4
+        type: 5
+                             
