@@ -44,5 +44,3 @@ for shop in config['shop']:
             if not offer == shop['offer'][-1]:
                 text_file.write(',')
         text_file.write(']},Rotation:[90f,0f]}')
-    
-    print(shop['name'] + config['sell-postfix'])
