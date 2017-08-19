@@ -135,15 +135,14 @@ shop:
         price: 16
         type: 3
 
-      - item: log #akacja
+      - item: log2 #akacja
         amount: 64
         price: 16
-        type: 4
 
-      - item: log #dark oak
+      - item: log2 #dark oak
         amount: 64
         price: 16
-        type: 5
+        type: 1
 
       - item: planks #oak
         amount: 64 
