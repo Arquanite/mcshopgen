@@ -276,6 +276,7 @@ shop:
       - item: leather
         amount: 32
         price: 1
+
         
   - name: Akwarelista
     currency: gold_nugget
@@ -444,3 +445,15 @@ shop:
       - item: nether_wart
         amount: 16
         price: 1
+
+       
+   - name: Nurek
+     currency: gold_nugget
+     offer: 
+      - item: prismarine_shard
+        amount: 8
+        price: 1     
+
+      - item: prismarine_crystals
+        amount: 8 
+        price: 1  
