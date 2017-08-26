@@ -30,7 +30,51 @@ shop:
         amount: 32
         price: 1
         type: 3 # te trzecie
+
+      - item: stone
+        type: 0
+        amount: 32
+        price: 1
+
+
+      - item: stone
+        type: 1
+        amount: 32
+        price: 1
+
+      - item: stone
+        type: 2
+        amount: 32
+        price: 1
+
+      - item: stone
+        type: 3
+        amount: 32
+        price: 1
         
+      - item: stone
+        type: 4
+        amount: 32
+        price: 1
+
+      - item: stone
+        type: 5
+        amount: 32
+        price: 1
+
+      - item: stone
+        type: 6
+        amount: 32
+        price: 1
+
+      - item: netherrack
+        amount: 64
+        price: 1
+
+      - item: quartz
+        amount: 16
+        price: 1
+
   - name: Tusken #ten od piachu :d
     currency: gold_nugget
     offer:
@@ -38,25 +82,31 @@ shop:
         amount: 64
         price: 1
     
-    offer:
       - item: sand
+        type: 0
         amount: 64
         price: 1
+
+      - item: sand
+        type: 1
+        amount: 64
+        price: 1
+
+      - item: sandstone
+        amount: 16
+        price: 1
     
-    offer:
       - item: glass
-        amount: 64
-        price: 2
+        amount: 32
+        price: 1
     
-    offer:
       - item: gravel
-        amount: 64
-        price: 2
+        amount: 32
+        price: 1
     
-    offer:
       - item: clay
-        amount: 64
-        price: 2
+        amount: 32
+        price: 1
         
   - name: Rzeźnik
     currency: gold_nugget
@@ -111,6 +161,10 @@ shop:
       - item: diamond
         amount: 1
         price: 16
+
+      - item: redstone
+        amount: 64 
+        price: 1
        
     currency: gold_nugget
     offer:    
@@ -122,62 +176,62 @@ shop:
     currency: gold_nugget
     offer:
       - item: log #oak
-        amount: 64 
-        price: 16
+        amount: 16 
+        price: 1
         type: 0
 
       - item: log #spruce
-        amount: 64
-        price: 16
+        amount: 16
+        price: 1
         type: 1
 
       - item: log #birch
-        amount: 64
-        price: 16
+        amount: 16
+        price: 1
         type: 2
     
       - item: log #jungle
-        amount: 64
-        price: 16
+        amount: 16
+        price: 1
         type: 3
 
       - item: log2 #akacja
-        amount: 64
-        price: 16
+        amount: 16
+        price: 1
 
       - item: log2 #dark oak
-        amount: 64
-        price: 16
+        amount: 16
+        price: 1
         type: 1
 
       - item: planks #oak
-        amount: 64 
-        price: 4
+        amount: 16 
+        price: 1
         type: 0
 
       - item: planks #spruce
-        amount: 64
-        price: 4
+        amount: 16
+        price: 1
         type: 1
 
       - item: planks #birch
-        amount: 64
-        price: 4
+        amount: 16
+        price: 1
         type: 2
     
       - item: planks #jungle
-        amount: 64
-        price: 4
+        amount: 16
+        price: 1
         type: 3
 
       - item: planks #akacja
-        amount: 64
-        price: 4
+        amount: 16
+        price: 1
         type: 4
 
       - item: planks #dark oak
-        amount: 64
-        price: 4
+        amount: 16
+        price: 1
         type: 5
                              
   - name: Łowca
@@ -217,6 +271,10 @@ shop:
         
       - item: blaze_rod
         amount: 1 
+        price: 1
+
+      - item: leather
+        amount: 32
         price: 1
         
   - name: Akwarelista
@@ -295,4 +353,94 @@ shop:
       - item: dye
         type: 14
         amount: 8 
+        price: 1
+
+       
+  - name: Warzywniak
+    currency: gold_nugget
+    offer:
+      - item: wheat
+        amount: 16
+        price: 1
+
+      - item: carrot
+        amount: 16
+        price: 1 
+
+      - item: beetroot
+        amount: 16
+        price: 1 
+
+      - item: potato
+        amount: 16
+        price: 1 
+
+      - item: melon
+        amount: 16
+        price: 1 
+
+      - item: brown_mushroom
+        amount: 16
+        price: 1 
+
+      - item: red_mushroom
+        amount: 16
+        price: 1 
+
+      - item: reeds
+        amount: 32
+        price: 1 
+
+
+  - name: Zielarz
+    currency: gold_nugget
+    offer:
+      - item: sapling
+        type: 0
+        amount: 64
+        price: 1
+        
+      - item: sapling
+        type: 1
+        amount: 64
+        price: 1
+
+      - item: sapling
+        type: 2
+        amount: 64
+        price: 1
+
+      - item: sapling
+        type: 3
+        amount: 64
+        price: 1
+
+      - item: sapling
+        type: 4
+        amount: 64
+        price: 1
+
+      - item: sapling
+        type: 5
+        amount: 64
+        price: 1
+
+      - item: wheat_seeds
+        amount: 64
+        price: 1
+
+      - item: beetroot_seeds
+        amount: 64
+        price: 1
+
+      - item: melon_seeds
+        amount: 64
+        price: 1
+
+      - item: pumpkin_seeds
+        amount: 64
+        price: 1
+
+      - item: nether_wart
+        amount: 16
         price: 1
