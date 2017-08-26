@@ -36,7 +36,6 @@ shop:
         amount: 32
         price: 1
 
-
       - item: stone
         type: 1
         amount: 32
@@ -166,10 +165,8 @@ shop:
         amount: 64 
         price: 1
        
-    currency: gold_nugget
-    offer:    
       - item: coal
-        amount: 16 
+        amount: 16
         price: 1
 
   - name: Drwal
@@ -447,13 +444,13 @@ shop:
         price: 1
 
        
-   - name: Nurek
-     currency: gold_nugget
-     offer: 
+  - name: Nurek
+    currency: gold_nugget
+    offer:
       - item: prismarine_shard
         amount: 8
-        price: 1     
+        price: 1
 
       - item: prismarine_crystals
-        amount: 8 
+        amount: 8
         price: 1  
