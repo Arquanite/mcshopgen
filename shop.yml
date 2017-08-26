@@ -31,7 +31,7 @@ shop:
         price: 1
         type: 3 # te trzecie
         
-  - name: Piaskun #ten od piachu :d
+  - name: Tusken #ten od piachu :d
     currency: gold_nugget
     offer:
       - item: dirt
@@ -105,12 +105,18 @@ shop:
     currency: gold_ingot
     offer:
       - item: iron_ingot
-        amount: 64 
-        price: 16
+        amount: 16 
+        price: 1
 
       - item: diamond
         amount: 1
         price: 16
+       
+    currency: gold_nugget
+    offer:    
+      - item: coal
+        amount: 16 
+        price: 1
 
   - name: Drwal
     currency: gold_nugget
@@ -174,3 +180,119 @@ shop:
         price: 4
         type: 5
                              
+  - name: Łowca
+    currency: gold_nugget
+    offer:
+      - item: bone
+        amount: 16
+        price: 1
+        
+      - item: slime_ball
+        amount: 2
+        price: 1
+        
+      - item: string
+        amount: 32
+        price: 1
+        
+      - item: spider_eye
+        amount: 8
+        price: 1
+        
+      - item: feather
+        amount: 64
+        price: 1
+        
+      - item: ender_pearl
+        amount: 1
+        price: 1
+        
+      - item: gunpowder
+        amount: 2
+        price: 1
+        
+      - item: rotten_flesh
+        amount: 64 
+        price: 1
+        
+      - item: blaze_rod
+        amount: 1 
+        price: 1
+        
+  - name: Akwarelista
+    currency: gold_nugget
+    offer:
+      - item: dye
+        type: 0
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 1
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 2
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 3
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 4
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 5
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 6
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 7
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 8
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 9
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 10
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 11
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 12
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 13
+        amount: 8 
+        price: 1
+        
+      - item: dye
+        type: 14
+        amount: 8 
+        price: 1
