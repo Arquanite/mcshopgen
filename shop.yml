@@ -74,7 +74,7 @@ shop:
         amount: 16
         price: 1
 
-  - name: Tusken #ten od piachu :d
+  - name: Piaskarz #ten od piachu :d
     currency: gold_nugget
     offer:
       - item: dirt
@@ -150,7 +150,7 @@ shop:
         amount: 8
         price: 1
 
-  - name: Kopacz 
+  - name: Górnik 
     currency: gold_ingot
     offer:
       - item: iron_ingot
@@ -173,31 +173,31 @@ shop:
     currency: gold_nugget
     offer:
       - item: log #oak
-        amount: 16 
+        amount: 4 
         price: 1
         type: 0
 
       - item: log #spruce
-        amount: 16
+        amount: 4
         price: 1
         type: 1
 
       - item: log #birch
-        amount: 16
+        amount: 4
         price: 1
         type: 2
     
       - item: log #jungle
-        amount: 16
+        amount: 4
         price: 1
         type: 3
 
       - item: log2 #akacja
-        amount: 16
+        amount: 4
         price: 1
 
       - item: log2 #dark oak
-        amount: 16
+        amount: 4
         price: 1
         type: 1
 
