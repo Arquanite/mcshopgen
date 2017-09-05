@@ -74,7 +74,7 @@ shop:
         amount: 16
         price: 1
 
-  - name: Tusken #ten od piachu :d
+  - name: Piaskarz #ten od piachu :d
     currency: gold_nugget
     offer:
       - item: dirt
@@ -150,7 +150,7 @@ shop:
         amount: 8
         price: 1
 
-  - name: Kopacz 
+  - name: Górnik 
     currency: gold_ingot
     offer:
       - item: iron_ingot
@@ -173,31 +173,31 @@ shop:
     currency: gold_nugget
     offer:
       - item: log #oak
-        amount: 16 
+        amount: 4 
         price: 1
         type: 0
 
       - item: log #spruce
-        amount: 16
+        amount: 4
         price: 1
         type: 1
 
       - item: log #birch
-        amount: 16
+        amount: 4
         price: 1
         type: 2
     
       - item: log #jungle
-        amount: 16
+        amount: 4
         price: 1
         type: 3
 
       - item: log2 #akacja
-        amount: 16
+        amount: 4
         price: 1
 
       - item: log2 #dark oak
-        amount: 16
+        amount: 4
         price: 1
         type: 1
 
@@ -444,7 +444,7 @@ shop:
         price: 1
 
        
-  - name: Nurek
+  - name: Poszukiwacz
     currency: gold_nugget
     offer:
       - item: prismarine_shard
@@ -453,4 +453,261 @@ shop:
 
       - item: prismarine_crystals
         amount: 8
-        price: 1  
+        price: 1
+
+      - item: chorus_fruit_popped
+        amount: 1
+        price: 8
+
+       
+  - name: Łowca_skarbów
+    currency: gold_ingot
+    offer:
+      - item: saddle
+        amount: 1
+        price: 32
+
+      - item: diamond_horse_armor
+        amount: 1
+        price: 64
+
+      - item: golden_horse_armor
+        amount: 1
+        price: 32
+
+      - item: iron_horse_armor
+        amount: 1
+        price: 16
+
+      - item: ely
+        amount: 1
+        price: 64
+
+      - item: ghast_tear
+        amount: 1
+        price: 64
+
+      - item: name_tag
+        amount: 1
+        price: 16
+
+       
+  - name: Dr_Etker
+    currency: gold_ingot
+    offer:
+      - item: record_13
+        amount: 1
+        price: 32
+
+      - item: record_ward
+        amount: 1
+        price: 32
+
+      - item: record_strad
+        amount: 1
+        price: 32
+
+      - item: record_stal
+        amount: 1
+        price: 32
+
+      - item: record_mellohi
+        amount: 1
+        price: 32
+
+      - item: record_mall
+        amount: 1
+        price: 32
+
+      - item: record_far
+        amount: 1
+        price: 32
+
+      - item: record_chirp
+        amount: 1
+        price: 32
+
+      - item: record_blocks
+        amount: 1
+        price: 32
+
+      - item: record_cat
+        amount: 1
+        price: 32
+
+      - item: record_wait
+        amount: 1
+        price: 32
+
+      - item: record_11
+        amount: 1
+        price: 32
+
+       
+  - name: Płytkarz
+    currency: gold_nugget
+    offer:
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 0
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 1
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 2
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 3
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 4
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 5
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 6
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 7
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 8
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 9
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 10
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 11
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 12
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 13
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 14
+
+      - item: concrete_powder
+        amount: 16
+        price: 1
+	type: 15
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 0
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 1
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 2
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 3
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 4
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 5
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 6
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 7
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 8
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 9
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 10
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 11
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 12
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 13
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 14
+
+      - item: concrete
+        amount: 16
+        price: 1
+	type: 15
+
+      - item: hardened_clay
+        amount: 8
+        price: 1
+
