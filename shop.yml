@@ -14,7 +14,7 @@ shop:
         
       - item: grass
         amount: 64
-        price:1
+        price: 1
         
       - item: stonebrick
         amount: 32
