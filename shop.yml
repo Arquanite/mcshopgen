@@ -827,3 +827,157 @@ shop:
         amount: 1
         price: 32
         type: "0,tag:{EntityTag:{id:\"villager\"}}"
+
+
+  - name: Czarodziej
+    currency: gold_block
+    offer:
+      - item: enchanted_book # Aqua Affinity
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:6,lvl:1}]}"
+
+      - item: enchanted_book # Bane of Anthropods
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:18,lvl:5}]}"
+
+      - item: enchanted_book # Blast Protection
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:3,lvl:4}]}"
+
+      - item: enchanted_book # Curse of Binding
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:10,lvl:1}]}"
+
+      - item: enchanted_book # Curse of Vanishing
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:71,lvl:1}]}"
+
+      - item: enchanted_book # Depth Strider
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:8,lvl:3}]}"
+
+      - item: enchanted_book # Efficiency
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:32,lvl:5}]}"
+
+      - item: enchanted_book # Feather Falling
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:2,lvl:4}]}"
+
+      - item: enchanted_book # Fire Aspect
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:20,lvl:2}]}"
+
+      - item: enchanted_book # Fire Protection
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:1,lvl:4}]}"
+
+      - item: enchanted_book # Flame
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:50,lvl:1}]}"
+
+      - item: enchanted_book # Fortune
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:35,lvl:3}]}"
+
+      - item: enchanted_book # Frost Walker
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:9,lvl:2}]}"
+
+      - item: enchanted_book # Infinity
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:51,lvl:1}]}"
+
+      - item: enchanted_book # Knockback
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:19,lvl:2}]}"
+
+      - item: enchanted_book # Looting
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:21,lvl:3}]}"
+
+      - item: enchanted_book # Luck of the Sea
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:61,lvl:3}]}"
+
+      - item: enchanted_book # Lure
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:62,lvl:3}]}"
+
+      - item: enchanted_book # Mending
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:70,lvl:1}]}"
+
+      - item: enchanted_book # Power
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:48,lvl:5}]}"
+
+      - item: enchanted_book # Projectile Protection
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:4,lvl:4}]}"
+
+      - item: enchanted_book # Protection
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:0,lvl:4}]}"
+
+      - item: enchanted_book # Punch
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:49,lvl:2}]}"
+
+      - item: enchanted_book # Respiration
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:5,lvl:3}]}"
+
+      - item: enchanted_book # Sharpness
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:16,lvl:5}]}"
+
+      - item: enchanted_book # Silk Touch
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:33,lvl:1}]}"
+
+      - item: enchanted_book # Smite
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:17,lvl:5}]}"
+
+      - item: enchanted_book # Sweeping Edge
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:22,lvl:3}]}"
+
+      - item: enchanted_book # Thorns
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:7,lvl:3}]}"
+
+      - item: enchanted_book # Unbreaking
+        amount: 1
+        price: 32
+        type: "0,tag:{StoredEnchantments:[{id:34,lvl:3}]}"
