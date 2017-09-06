@@ -494,7 +494,7 @@ shop:
         price: 8
 
        
-  - name: Łowca_skarbów
+  - name: "Łowca skarbów"
     currency: gold_ingot
     offer:
       - item: saddle
@@ -513,7 +513,7 @@ shop:
         amount: 1
         price: 16
 
-      - item: ely
+      - item: elytra
         amount: 1
         price: 64
 
@@ -526,7 +526,7 @@ shop:
         price: 16
 
        
-  - name: Dr_Etker
+  - name: "Dr Oetker"
     currency: gold_ingot
     offer:
       - item: record_13
