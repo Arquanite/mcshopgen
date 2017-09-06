@@ -1,18 +1,23 @@
 #!/bin/python3
-
+import os
 import yaml
 
 config = ''
+subdir = '__output__'
 
 with open("shop.yml", 'r') as stream:
     try:
         config = yaml.load(stream)
     except yaml.YAMLError as exc:
         print(exc)
-        
+
+try:
+    os.mkdir(subdir)
+except Exception:
+    pass
 
 for shop in config['shop']:
-    with open(shop['name'] + config['buy-postfix'] + '.xd', "w") as text_file:
+    with open(os.path.join(subdir, shop['name'] + config['buy-postfix'] + '.xd'), "w") as text_file:
         text_file.write('/summon Villager ~ ~1 ~ {')
         text_file.write('Profession:0,')
         text_file.write('CustomName:"{0}",'.format(shop['name'] + config['buy-postfix']))
@@ -28,7 +33,7 @@ for shop in config['shop']:
                 text_file.write(',')
         text_file.write(']},Rotation:[90f,0f]}')
         
-    with open(shop['name'] + config['sell-postfix'] + '.xd', "w") as text_file:
+    with open(os.path.join(subdir, shop['name'] + config['sell-postfix'] + '.xd'), "w") as text_file:
         text_file.write('/summon Villager ~ ~1 ~ {')
         text_file.write('Profession:0,')
         text_file.write('CustomName:"{0}",'.format(shop['name'] + config['sell-postfix']))

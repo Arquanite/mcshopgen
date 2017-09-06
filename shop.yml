@@ -745,3 +745,85 @@ shop:
         amount: 8
         price: 1
 
+       
+  - name: Jajcarz
+    currency: gold_ingot
+    offer:
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"bat\"}}"
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"chicken\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"cow\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"donkey\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"llama\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"mule\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"parrot\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"ocelot\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"pig\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"rabbit\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"sheep\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"squid\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 16
+        type: "0,tag:{EntityTag:{id:\"wolf\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 32
+        type: "0,tag:{EntityTag:{id:\"horse\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 32
+        type: "0,tag:{EntityTag:{id:\"mooshroom\"}}"
+
+      - item: spawn_egg
+        amount: 1
+        price: 32
+        type: "0,tag:{EntityTag:{id:\"villager\"}}"
