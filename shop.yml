@@ -12,6 +12,10 @@ shop:
         amount: 64
         price: 1
         
+      - item: grass
+        amount: 64
+        price:1
+        
       - item: stonebrick
         amount: 32
         price: 1
@@ -30,6 +34,14 @@ shop:
         amount: 32
         price: 1
         type: 3 # te trzecie
+        
+      - item: magma
+        amount: 32
+        price: 1
+        
+      - item: end_stone
+        amount: 32
+        price: 1
 
       - item: stone
         type: 0
@@ -70,15 +82,25 @@ shop:
         amount: 64
         price: 1
 
-      - item: quartz
-        amount: 16
-        price: 1
-
   - name: Piaskarz #ten od piachu :d
     currency: gold_nugget
     offer:
       - item: dirt
         amount: 64
+        price: 1
+      
+      - item: dirt # coarse
+        amount: 32
+        price: 1
+        type: 1
+      
+      - item: dirt # podzol
+        amount: 32
+        price: 1
+        type: 2
+        
+      - item: mycelium
+        amount: 32
         price: 1
     
       - item: sand
@@ -160,15 +182,27 @@ shop:
       - item: diamond
         amount: 1
         price: 16
+        
+      - item: diamond
+        amount: 1
+        price: 16
 
       - item: redstone
         amount: 64 
         price: 1
        
       - item: coal
+        amount: 32
+        price: 1
+        
+      - item: glowstone_dust
+        amount: 64
+        price: 1
+        
+      - item: quartz
         amount: 16
         price: 1
-
+        
   - name: Drwal
     currency: gold_nugget
     offer:
@@ -239,7 +273,7 @@ shop:
         price: 1
         
       - item: slime_ball
-        amount: 2
+        amount: 4
         price: 1
         
       - item: string
@@ -358,7 +392,7 @@ shop:
     currency: gold_nugget
     offer:
       - item: wheat
-        amount: 16
+        amount: 8
         price: 1
 
       - item: carrot
@@ -376,17 +410,21 @@ shop:
       - item: melon
         amount: 16
         price: 1 
+        
+      - item: pumpkin
+        amount: 4
+        price: 1
 
       - item: brown_mushroom
-        amount: 16
+        amount: 32
         price: 1 
 
       - item: red_mushroom
-        amount: 16
+        amount: 32
         price: 1 
 
       - item: reeds
-        amount: 32
+        amount: 16
         price: 1 
 
 
