@@ -125,7 +125,7 @@ shop:
         amount: 32
         price: 1
     
-      - item: clay
+      - item: clay_ball
         amount: 32
         price: 1
         
