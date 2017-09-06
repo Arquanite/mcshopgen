@@ -8,14 +8,6 @@ shop:
         amount: 64
         price: 1
         
-      - item: dirt
-        amount: 64
-        price: 1
-        
-      - item: grass
-        amount: 64
-        price: 1
-        
       - item: stonebrick
         amount: 32
         price: 1
@@ -86,6 +78,10 @@ shop:
     currency: gold_nugget
     offer:
       - item: dirt
+        amount: 64
+        price: 1
+                
+      - item: grass
         amount: 64
         price: 1
       
