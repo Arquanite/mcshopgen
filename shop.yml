@@ -560,7 +560,7 @@ shop:
         amount: 1
         price: 8
         
-      - item: experienc_bottle
+      - item: experience_bottle
         amount: 1
         price: 1
         
@@ -572,7 +572,7 @@ shop:
         amount: 1
         price: 1
         
-      - item: reapter
+      - item: repeater
         amount: 1
         price: 1
         
