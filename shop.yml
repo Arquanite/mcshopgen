@@ -329,10 +329,6 @@ shop:
         amount: 32
         price: 1
         
-      - item: nether_brick
-        amount: 16 
-        price: 1
-        
       - item: web
         amount: 3
         price: 1
