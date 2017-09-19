@@ -73,6 +73,15 @@ shop:
       - item: netherrack
         amount: 64
         price: 1
+        
+      - item: nether_brick
+        amount: 16 
+        price: 1
+        
+      - item: red_nether_brick
+        amount: 16 
+        price: 1
+        
 
   - name: Piaskarz #ten od piachu :d
     currency: gold_nugget
@@ -125,6 +134,11 @@ shop:
         amount: 32
         price: 1
         
+      - item: soul_sand
+        amount: 32
+        price: 1
+        
+        
   - name: Rzeźnik
     currency: gold_nugget
     offer:
@@ -167,6 +181,7 @@ shop:
       - item: cooked_mutton
         amount: 8
         price: 1
+        
 
   - name: Górnik 
     currency: gold_ingot
@@ -198,6 +213,11 @@ shop:
       - item: quartz
         amount: 16
         price: 1
+        
+      - item: obsidian
+        amount: 1
+        price: 4
+        
         
   - name: Drwal
     currency: gold_nugget
@@ -260,6 +280,7 @@ shop:
         amount: 16
         price: 1
         type: 5
+        
                              
   - name: Łowca
     currency: gold_nugget
@@ -303,7 +324,27 @@ shop:
       - item: leather
         amount: 32
         price: 1
-
+        
+      - item: arrow
+        amount: 32
+        price: 1
+        
+      - item: nether_brick
+        amount: 16 
+        price: 1
+        
+      - item: web
+        amount: 3
+        price: 1
+        
+      - item: wool
+        amount: 8
+        price: 1
+        
+      - item: egg
+        amount: 16
+        price: 1
+        
         
   - name: Akwarelista
     currency: gold_nugget
@@ -476,6 +517,36 @@ shop:
       - item: nether_wart
         amount: 16
         price: 1
+        
+      - item: leaves
+        type: 0
+        amount: 64
+        price: 1
+        
+      - item: leaves
+        type: 1
+        amount: 64
+        price: 1
+        
+      - item: leaves
+        type: 2
+        amount: 64
+        price: 1
+        
+      - item: leaves
+        type: 3
+        amount: 64
+        price: 1
+        
+      - item: leaves2
+        type: 0
+        amount: 64
+        price: 1
+        
+      - item: leaves2
+        type: 1
+        amount: 64
+        price: 1
 
        
   - name: Poszukiwacz
@@ -492,6 +563,26 @@ shop:
       - item: chorus_fruit_popped
         amount: 1
         price: 8
+        
+      - item: experienc_bottle
+        amount: 1
+        price: 1
+        
+      - item: sponge
+        amount: 1
+        price: 1
+        
+      - item: comparator
+        amount: 1
+        price: 1
+        
+      - item: reapter
+        amount: 1
+        price: 1
+        
+      - item: minecart
+        amount: 1
+        price: 3
 
        
   - name: "Łowca skarbów"
@@ -522,6 +613,10 @@ shop:
         price: 64
 
       - item: name_tag
+        amount: 1
+        price: 16
+        
+      - item: white_shulker_box
         amount: 1
         price: 16
 
