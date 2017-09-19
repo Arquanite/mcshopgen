@@ -216,7 +216,7 @@ shop:
         
       - item: obsidian
         amount: 1
-        price: 4
+        price: 1
         
         
   - name: Drwal
